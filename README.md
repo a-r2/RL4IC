@@ -2,6 +2,8 @@
 
 Final project of the subject *Intelligent Control*, which is part of the *Masters degree in Systems and Control Engineering*.
 
+![alt text](https://github.com/a-r2/RL4IC/blob/main/Environments.png)
+
 ## 1. Description
 
 The objective of this project is to implement several state-of-the-art reinforcement learning algorithms in environments that are considered interesting from the point of view of control theory due to their continuous action space.
