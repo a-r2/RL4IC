@@ -2,7 +2,9 @@
 
 Final project of the subject *Intelligent Control*, which is part of the *Masters degree in Systems and Control Engineering*.
 
-![alt text](https://github.com/a-r2/RL4IC/blob/main/Environments.png)
+<p align="center">
+  <img src="https://github.com/a-r2/RL4IC/blob/main/Environments.png?raw=true"/>
+</p>
 
 ## 1. Description
 
