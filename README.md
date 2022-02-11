@@ -10,7 +10,7 @@ Reinforcement learning is particularly useful in those cases when a full model o
 
 For this purpose, a software tool has been created, following a user-friendly approach, that allows the user to play around with these algorithms, by tweaking and testing them in different scenarios.
 
-## 2. Requeriments
+## 2. Requirements
 
 * [Python 3.8 and pip](https://www.python.org/downloads/)
 * [Git](https://desktop.github.com/)
