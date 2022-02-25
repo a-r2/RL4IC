@@ -1,6 +1,6 @@
 # Reinforcement Learning for Intelligent Control
 
-Final project of the subject *Intelligent Control*, which is part of the *Masters degree in Systems and Control Engineering*.
+Final project of the subject *Intelligent Control*, which is part of the *Master in Systems and Control Engineering*.
 
 <p align="center">
   <img src="https://github.com/a-r2/RL4IC/blob/main/Environments.png?raw=true" width=50% height=50%/>
